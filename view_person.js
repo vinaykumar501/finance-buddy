@@ -14,6 +14,6 @@ document.getElementById("deletePerson").addEventListener("click", function () {
     localStorage.setItem("transactions", JSON.stringify(updatedTransactions));
 
     alert("✅ Person and their transactions deleted successfully.");
-    window.location.href = "4view_people.html.html"; // Redirect to home page
+    window.location.href = "4view_people.html"; // Redirect to home page
   }
 });
