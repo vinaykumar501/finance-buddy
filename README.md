@@ -1,4 +1,6 @@
 # 💸 Finance Buddy
+🚀 **Live Demo:** [https://vinaykumar501.github.io/finance-buddy/](https://vinaykumar501.github.io/finance-buddy/)
+
 
 **Finance Buddy** is a browser‑based personal money‑tracking application built with **HTML, CSS & JavaScript**, using **localStorage**—no backend needed. Fully offline and secure on your own machine.
 
